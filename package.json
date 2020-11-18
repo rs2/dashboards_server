@@ -60,7 +60,7 @@
     "tmp": "0.0.28",
     "url-join": "0.0.1",
     "websocket": "^1.0.22",
-    "yargs": "^4.8.1"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
